@@ -1,0 +1,21 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-color: #ccc;
+  margin: 0;
+  padding: 0;
+}
+.container{
+  margin: 0 auto;
+  text-align: center;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;
+}
